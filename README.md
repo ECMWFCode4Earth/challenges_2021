@@ -30,6 +30,7 @@ There are three challenge streams:
 <img src='./stream2.png' alt='ESoWC Stream 2' align='left' width='5%'></img> 
 
 ### Stream 2 - Machine Learning for weather, climate and atmosphere applications
+
 <br>
 
 * [Challenge 21 - Machine Learning to improve the CAMS global air quality forecasts](https://github.com/esowc/challenges_2021/issues/6)
