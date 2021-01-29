@@ -52,7 +52,7 @@ There are three challenge streams:
 
 <br>
 
-* Note: Successful projects will be eligible for a stipend of £ 5000 and if applicable, cloud credits from the [European Weather Cloud](https://www.europeanweather.cloud/) or [WEkEO](https://wekeo.eu/)
+*Note: Successful projects will be eligible for a stipend of £ 5000 and if applicable, cloud credits from the [European Weather Cloud](https://www.europeanweather.cloud/) or [WEkEO](https://wekeo.eu/)*
 
 <br>
 
