@@ -1,6 +1,6 @@
 # ECMWF Summer of Weather Code 2021
 
-ECMWF Summer of Weather Code is a collaborative programme where each summer several developer teams work on innovative weather-, climate- and atmospher-related open-source software. ESoWC is organised by the [European Centre for Medium-Range Weather Forecasts (ECMWF)](www.ecmwf.int) and supported by [Copernicus](climate.copernicus.eu).
+ECMWF Summer of Weather Code is a collaborative programme where each summer several developer teams work on innovative weather-, climate- and atmosphere-related open-source software. ESoWC is organised by the [European Centre for Medium-Range Weather Forecasts (ECMWF)](www.ecmwf.int) and supported by [Copernicus](climate.copernicus.eu).
 
 <br>
 
@@ -46,8 +46,8 @@ There are three challenge streams:
 
 <br>
 
-* [Challenge 31 - ECMWF forecast data in 3D with Blender](https://github.com/esowc/challenges_2021/issues/3)
-* [Challenge 32 - Building interactive weather visualisations](https://github.com/esowc/challenges_2021/issues/4)
+* [Challenge 31 - ECMWF forecast data in 3D with Blender](https://github.com/esowc/challenges_2021/issues/4)
+* [Challenge 32 - Building interactive weather visualisations](https://github.com/esowc/challenges_2021/issues/3)
 * [Challenge 33 - WEkEO in a glance](https://github.com/esowc/challenges_2021/issues/10)
 
 <br>
