@@ -1,2 +1,37 @@
-# challenges_2021
-Discover the ECMWF Summer of Weather Code 2021 challenges!
+# ECMWF Summer of Weather Code 2021
+
+ECMWF Summer of Weather Code is a collaborative programme where each summer several developer teams work on innovative weather-, climate- and atmospher-related open-source software. ESoWC is organised by the [European Centre for Medium-Range Weather Forecasts (ECMWF)](www.ecmwf.int) and supported by [Copernicus](climate.copernicus.eu).
+
+## ESoWC 2021 Challenges
+
+There are three challenge streams:
+
+
+
+
+
+
+
+
+
+## How it works
+
+### 1. Application period: 1 Feb - 16 Apr 2021
+Browse through the [ESoWC 2021 challenges](https://github.com/esowc/challenges_2021/issues), ask questions and together with the mentors, tailor your proposal. Apply before 16 April 2021.
+
+### 2. Announcement of selected proposals: 30 Apr 2021
+The final ESoWC 2021 project teams will be announced on 30 Apr 2021.
+
+### 3. Coding period: 3 May  - 31 Aug 2021
+The 4-month long coding period starts 3 May 2021 and lasts until 31 August 2021. During this time, the selected teams team up with experienced mentors and experts in weather, climate, atmosphere and machine-learning. <br> Follow the progress of the projects here on Github.
+
+### 4. Final ESoWC day (virtual): 29 September 2021
+The ESoWC day is the final day of the programme. Each team will be invited to this virutal event and present their project results.
+
+<br>
+
+## Important links
+* [ESoWC Frequently Asked Questions](http://esowc.ecmwf.int/FAQ)
+* [ESoWC Terms & Conditions](http://esowc.ecmwf.int/terms-and-conditions)
+* Follow ESoWC on [Twitter](https://twitter.com/esowc_ecmwf), [LinkedIn](https://www.linkedin.com/showcase/ecmwf-summer-of-weather-code/) and [YouTube](https://www.youtube.com/channel/UCWLn6evyZ6tTktvUSTE1Xow)
+* Read a summary of ESoWC 2020 on ECMWF Science Blog: [ESoWC 2020 a driver of innovation](https://www.ecmwf.int/en/about/media-centre/science-blog/2020/ecmwf-summer-weather-code-driver-innovation).
