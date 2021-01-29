@@ -27,7 +27,7 @@ There are three challenge streams:
 
 <br>
 
-<img src='./stream2.png' alt='ESoWC Stream 2' align='left' width='5%'></img> 
+<img src='./stream2.png' alt='ESoWC Stream 2' align='left' width='6%'></img> 
 
 ### Stream 2 - Machine Learning for weather, climate and atmosphere applications
 
@@ -52,7 +52,7 @@ There are three challenge streams:
 
 <br>
 
-* Note: Successful projects will be eligible for a stipend of £ 5000 and if applicable, cloud credits from the [European Weather Cloud](https://www.europeanweather.cloud/) or [WEkEO](https://wekeo.eu/)*
+* Note: Successful projects will be eligible for a stipend of £ 5000 and if applicable, cloud credits from the [European Weather Cloud](https://www.europeanweather.cloud/) or [WEkEO](https://wekeo.eu/)
 
 <br>
 
