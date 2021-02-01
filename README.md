@@ -4,7 +4,7 @@ ECMWF Summer of Weather Code is a collaborative programme where each summer seve
 
 <br>
 
-<img src='./esowc2021_banner.png' alt='ESoWC' align='center' width='100%'></img>
+<img src='./esowc_2021_banner.jpg' alt='ESoWC' align='center' width='100%'></img>
 
 <br>
 
@@ -76,4 +76,5 @@ The ESoWC day is the final day of the programme. Each team will be invited to th
 * [ESoWC Frequently Asked Questions](http://esowc.ecmwf.int/FAQ)
 * [ESoWC Terms & Conditions](http://esowc.ecmwf.int/terms-and-conditions)
 * Follow ESoWC on [Twitter](https://twitter.com/esowc_ecmwf), [LinkedIn](https://www.linkedin.com/showcase/ecmwf-summer-of-weather-code/) and [YouTube](https://www.youtube.com/channel/UCWLn6evyZ6tTktvUSTE1Xow)
-* Read a summary of ESoWC 2020 on the ECMWF Science Blog: [ESoWC 2020 a driver of innovation](https://www.ecmwf.int/en/about/media-centre/science-blog/2020/ecmwf-summer-weather-code-driver-innovation).
+* Read a summary of ESoWC 2020 on the ECMWF Science Blog: [ESoWC 2020 a driver of innovation](https://www.ecmwf.int/en/about/media-centre/science-blog/2020/ecmwf-summer-weather-code-driver-innovation)
+* ECMWF Newsletter: [Summer of Weather Code in fourth round in 2021](https://www.ecmwf.int/en/newsletter/166/news/summer-weather-code-fourth-round-2021)
