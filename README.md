@@ -1,6 +1,6 @@
 # ECMWF Summer of Weather Code 2021
 
-ECMWF Summer of Weather Code is a collaborative programme where each summer several developer teams work on innovative weather-, climate- and atmosphere-related open-source software. ESoWC is organised by the [European Centre for Medium-Range Weather Forecasts (ECMWF)](www.ecmwf.int) and supported by [Copernicus](climate.copernicus.eu).
+ECMWF Summer of Weather Code is a collaborative programme where each summer several developer teams work on innovative weather-, climate- and atmosphere-related open-source software. ESoWC is organised by the [European Centre for Medium-Range Weather Forecasts (ECMWF)](https://www.ecmwf.int) and supported by [Copernicus](https://climate.copernicus.eu).
 
 <br>
 
