@@ -22,9 +22,9 @@ There are three challenge streams:
 * [Challenge 12 - Size, precision, speed - pick two: implementation](https://github.com/esowc/challenges_2021/issues/2)
 * [Challenge 13 - ORIGAMI (global river gauges mapping)](https://github.com/esowc/challenges_2021/issues/5)
 * [Challenge 14 - Atmospheric composition data comparison toolbox](https://github.com/esowc/challenges_2021/issues/7)
-* [Challenge 15 - Development of satellite simulation web tool](https://github.com/esowc/challenges_2021/issues/8)
+* [Challenge 15 - The CDS-RTTOV-box](https://github.com/esowc/challenges_2021/issues/15)
 * [Challenge 16 - ECMWF User Profile Page](https://github.com/esowc/challenges_2021/issues/12)
-* [Challenge 17 - The CDS-RTTOV-box](https://github.com/esowc/challenges_2021/issues/15)
+
 
 <br>
 
