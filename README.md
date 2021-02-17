@@ -69,7 +69,7 @@ The final ESoWC 2021 project teams will be announced on 30 Apr 2021.
 The 4-month long coding period starts 3 May 2021 and lasts until 31 August 2021. During this time, the selected teams team up with experienced mentors and experts in weather, climate, atmosphere and machine-learning. <br> Follow the progress of the projects here on Github.
 
 ### 4. Final ESoWC day (virtual): 29 September 2021
-The ESoWC day is the final day of the programme. Each team will be invited to this virutal event and present their project results.
+The ESoWC day is the final day of the programme. Each team will be invited to this virtual event and present their project results.
 
 <br>
 
