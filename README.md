@@ -18,8 +18,8 @@ Join the upcoming **ESoWC Ask Me Anything** webinars and learn more about:
 Additionally, learn from previous participants about their ESoWC experience and ask any question about ESoWC in the Q&A session.
 
 There will be two webinars:
-- **17 March 2021 at 4 pm CET | ESoWC AMA session 1**
-- **24 March 2021 at 4 pm CET | ESoWC AMA session 2**
+- **17 March 2021 at 4 pm GMT | ESoWC AMA session 1**
+- **24 March 2021 at 4 pm GMT | ESoWC AMA session 2**
 
 
 ### [>> REGISTER NOW](https://esowc.ecmwf.int/ama)
