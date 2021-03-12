@@ -4,7 +4,25 @@ ECMWF Summer of Weather Code is a collaborative programme where each summer seve
 
 <br>
 
-<img src='./esowc_2021_banner.jpg' alt='ESoWC' align='center' width='100%'></img>
+## Upcoming: ECMWF Summer of Weather Code - Ask Me Anything webinars
+
+Join the upcoming **ESoWC Ask Me Anything** webinars and learn more about:
+- the aim of the programme
+- the challenges in 2021, and
+- How it works
+
+Additionally, learn from previous participants about their ESoWC experience and ask any question about ESoWC in the Q&A session.
+
+There will be two webinars:
+- **17 March 2021 at 4 pm CET | ESoWC AMA session 1**
+- **24 March 2021 at 4 pm CET | ESoWC AMA session 2**
+<br>
+
+
+### [>> REGISTER](https://esowc.ecmwf.int/ama)
+<br>
+
+<img src='./esowc_ama.png' alt='ESoWC' align='center' width='100%'></img>
 
 <br>
 
