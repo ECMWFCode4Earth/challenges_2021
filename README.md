@@ -6,7 +6,7 @@ ECMWF Summer of Weather Code is a collaborative programme where each summer seve
 
 ## Upcoming: ECMWF Summer of Weather Code - Ask Me Anything webinars
 
-<img src='./esowc_ama_2.png' alt='ESoWC' align='center' width='80%'></img>
+<img src='./AMA March 2021 - Session 2.png' alt='ESoWC' align='center' width='80%'></img>
 
 <br>
 
