@@ -2,26 +2,13 @@
 
 ECMWF Summer of Weather Code is a collaborative programme where each summer several developer teams work on innovative weather-, climate- and atmosphere-related open-source software. ESoWC is organised by the [European Centre for Medium-Range Weather Forecasts (ECMWF)](https://www.ecmwf.int/) and supported by [Copernicus](https://climate.copernicus.eu).
 
-<br>
-
-## Upcoming: ECMWF Summer of Weather Code - Ask Me Anything webinars
-
-<img src='./AMA March 2021 - Session 2.png' alt='ESoWC' align='center' width='80%'></img>
+<img src='./esowc_2021_banner.jpg' alt='ESoWC' align='center' width='80%'></img>
 
 <br>
 
-Join the upcoming **ESoWC Ask Me Anything** webinars and learn more about:
-- the aim of the programme
-- the challenges in 2021, and
-- How it works
-
-Additionally, learn from previous participants about their ESoWC experience and ask any question about ESoWC in the Q&A session.
-
-Next webinar will take place on:
-- **24 March 2021 at 4 pm GMT | ESoWC AMA session 2**
-
-
-### [>> REGISTER NOW](https://esowc.ecmwf.int/ama)
+Did you miss the **ESoWC Ask Me Anything** webinars? Listen to the recordings:
+* [ESoWC AMA session 1](https://www.youtube.com/watch?v=6go_wB-c-aU)
+* [ESoWC AMA session 2](https://www.youtube.com/watch?v=wgFvtgvSvKU)
 
 
 <br>
