@@ -25,10 +25,10 @@ There are three challenge streams:
 <br>
 
 * [Challenge 11 - Jupyter widgets to help process and explore meteorlogical data](https://github.com/esowc/challenges_2021/issues/1)
-* [Challenge 12 - Size, precision, speed - pick two: implementation](https://github.com/esowc/challenges_2021/issues/2)
+* [Challenge 12<sup><strong>*</strong></sup> - Size, precision, speed - pick two: implementation](https://github.com/esowc/challenges_2021/issues/2)
 * [Challenge 13 - ORIGAMI (global river gauges mapping)](https://github.com/esowc/challenges_2021/issues/5)
-* [Challenge 14 - Atmospheric composition data comparison toolbox](https://github.com/esowc/challenges_2021/issues/7)
-* [Challenge 15 - The CDS-RTTOV-box](https://github.com/esowc/challenges_2021/issues/15)
+* [Challenge 14<sup><strong>*</strong></sup> - Atmospheric composition data comparison toolbox](https://github.com/esowc/challenges_2021/issues/7)
+* [Challenge 15<sup><strong>*</strong></sup> - The CDS-RTTOV-box](https://github.com/esowc/challenges_2021/issues/15)
 * [Challenge 16 - ECMWF User Profile Page](https://github.com/esowc/challenges_2021/issues/12)
 
 
@@ -40,9 +40,9 @@ There are three challenge streams:
 
 <br>
 
-* [Challenge 21 - Machine Learning to improve the CAMS global air quality forecasts](https://github.com/esowc/challenges_2021/issues/6)
+* [Challenge 21<sup><strong>*</strong></sup> - Machine Learning to improve the CAMS global air quality forecasts](https://github.com/esowc/challenges_2021/issues/6)
 * [Challenge 22 - ML4Land](https://github.com/esowc/challenges_2021/issues/9)
-* [Challenge 23 - Mapping Emissions of Air Pollutants](https://github.com/esowc/challenges_2021/issues/11)
+* [Challenge 23<sup><strong>*</strong></sup> - Mapping Emissions of Air Pollutants](https://github.com/esowc/challenges_2021/issues/11)
 * [Challenge 24 - CliMetLab - Machine Learning on weather and climate data](https://github.com/esowc/challenges_2021/issues/13)
 
 <br>
@@ -55,9 +55,11 @@ There are three challenge streams:
 
 * [Challenge 31 - ECMWF forecast data in 3D with Blender](https://github.com/esowc/challenges_2021/issues/4)
 * [Challenge 32 - Building interactive weather visualisations](https://github.com/esowc/challenges_2021/issues/3)
-* [Challenge 33 - WEkEO in a glance](https://github.com/esowc/challenges_2021/issues/10)
+* [Challenge 33<sup><strong>*</strong></sup> - WEkEO in a glance](https://github.com/esowc/challenges_2021/issues/10)
 
 <br>
+
+<i><strong><sup>*</sup></strong> Challenge is funded under Copernicus. [Terms and Conditions](https://esowc.ecmwf.int/terms-and-conditions) apply.</i>
 
 *Note: Successful projects will be eligible for a stipend of £ 5000 and if applicable, cloud credits from the [European Weather Cloud](https://www.europeanweather.cloud/) or [WEkEO](https://wekeo.eu/)*
 
