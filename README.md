@@ -5,63 +5,33 @@ ECMWF Summer of Weather Code is a collaborative programme where each summer seve
 
 <img src='./esowc_2021_banner.jpg' alt='ESoWC' align='center' width='80%'></img>
 
-<br>
-
-Did you miss the **ESoWC Ask Me Anything** webinars? Listen to the recordings:
-* [ESoWC AMA session 1](https://www.youtube.com/watch?v=6go_wB-c-aU)
-* [ESoWC AMA session 2](https://www.youtube.com/watch?v=wgFvtgvSvKU)
-
 
 <br>
 
-## ESoWC 2021 Challenges
+## ESoWC 2021 Projects
+Congratulations to the eight teams that have been selected to be part of ECMWF Summer of Weather Code 2021:
 
-There are three challenge streams:
+| Project title | Team | Mentors |
+| ---------- | --------------- | -------------- |
+| **Size, precision, speed - pick two: Implementation** | [Milan Kloewer](https://github.com/milankl) | [Miha Razinger](https://github.com/miha-at-ecmwf) <br> [Juan-Jose Dominguez](https://github.com/juanjodd) |
+| **ECMWF User Profile Page** | [Varun Bankar](https://github.com/varunbankar/) | [Helen Setchell](https://github.com/kiden) <br> Carsten Maas <br> [Sylvie Lamy-Thepaut](https://github.com/sylvielamythepaut) |
+| **Machine Learning to improve the <br>CAMS global air quality forecasts** | Antonio Perez Velsco <br> Mario Santa Cruz Lopez | [Johannes Flemming](https://github.com/JohannesFlemming) <br> [Miha Razinger](https://github.com/miha-at-ecmwf) <br> Jerome Barre |
+| **ML4Land** | [Het Shah](https://github.com/Het-Shah) <br> Avishra Kahe | [Gianpaolo Balsamo](https://github.com/gpbalsamo) <br> [Joe McNorton](https://github.com/joemcnorton) <br> Gabriele Arduini <br> Margarita Choulga <br> Souhail Boussetta <br> Nils Wedi <br> [Peter Dueben](https://github.com/dueben) |
+| **Mapping Emissions of Air Pollutants** | Nicolo Brunello <br> [Vidur Mithal](https://github.com/vidurmithal) <br> Paolo Fornoni <br> [Luca Ramponi](https://github.com/crampaldo) |[Joe McNorton](https://github.com/joemcnorton) <br> Nicolas Bousserez <br> [Gianpaolo Balsamo](https://github.com/gpbalsamo) <br> Anna Agusti-Panareda <br> Mark Parrington |
+| **CliMetLab - Machine Learning on weather and climate data** |[Ashwin Samudre](https://github.com/kiryteo)<br> [Florian Pinault](https://github.com/floriankrb) |[Baudouin Raoult](https://github.com/b8raoult) |
+| **ECMWF forecast data in 3D with Blender** | [Tishampati Dhar](https://github.com/whatnick) <br> Gichini Ngaruiya <br> Josue Martinez Moreno | [Stephan Siemen](https://github.com/stephansiemen) <br> [Sylvie Lamy-Thepaut](https://github.com/sylvielamythepaut) |
+| **Building interactive weather visualisations** | Kathryn Schmitt | [Stephan Siemen](https://github.com/stephansiemen) <br> [Iain Russell](https://github.com/iainrussell)|
 
-<img src='./stream1.png' alt='ESoWC Stream 1' align='left' width='5%'></img>
+<br>
+<br>
 
-### Stream 1 - Software development for weather, climate and atmosphere
+Generous cloud computing ressources are provided by: 
+|the Copernicus DIAS service [WEkEO](https://www.wekeo.eu/) |[European Weather Cloud](https://www.europeanweather.cloud/)|
+|----------------|:--------------------:|
+|<span style=float:left><img src='./wekeo.jpeg' alt='WEkEO logo' align='left' width='120'></img>|<img src='./ewc_logo.png' alt='EWS logo' align='center' ></img>|
 
 <br>
 
-* [Challenge 11 - Jupyter widgets to help process and explore meteorlogical data](https://github.com/esowc/challenges_2021/issues/1)
-* [Challenge 12<sup><strong>*</strong></sup> - Size, precision, speed - pick two: implementation *(funded under Copernicus)*](https://github.com/esowc/challenges_2021/issues/2)
-* [Challenge 13 - ORIGAMI (global river gauges mapping)](https://github.com/esowc/challenges_2021/issues/5)
-* [Challenge 14<sup><strong>*</strong></sup> - Atmospheric composition data comparison toolbox *(funded under Copernicus)*](https://github.com/esowc/challenges_2021/issues/7)
-* [Challenge 15<sup><strong>*</strong></sup> - The CDS-RTTOV-box *(funded under Copernicus)*](https://github.com/esowc/challenges_2021/issues/15)
-* [Challenge 16 - ECMWF User Profile Page](https://github.com/esowc/challenges_2021/issues/12)
-
-
-<br>
-
-<img src='./stream2.png' alt='ESoWC Stream 2' align='left' width='6%'></img> 
-
-### Stream 2 - Machine Learning for weather, climate and atmosphere applications
-
-<br>
-
-* [Challenge 21<sup><strong>*</strong></sup> - Machine Learning to improve the CAMS global air quality forecasts *(funded under Copernicus)*](https://github.com/esowc/challenges_2021/issues/6)
-* [Challenge 22 - ML4Land](https://github.com/esowc/challenges_2021/issues/9)
-* [Challenge 23<sup><strong>*</strong></sup> - Mapping Emissions of Air Pollutants *(funded under Copernicus)*](https://github.com/esowc/challenges_2021/issues/11)
-* [Challenge 24 - CliMetLab - Machine Learning on weather and climate data](https://github.com/esowc/challenges_2021/issues/13)
-
-<br>
-
-<img src='./stream3.png' alt='ESoWC Stream 3' align='left' width='5%'></img>
-
-### Stream 3 - Visualize weather, climate and atmosphere
-
-<br>
-
-* [Challenge 31 - ECMWF forecast data in 3D with Blender](https://github.com/esowc/challenges_2021/issues/4)
-* [Challenge 32 - Building interactive weather visualisations](https://github.com/esowc/challenges_2021/issues/3)
-* [Challenge 33<sup><strong>*</strong></sup> - WEkEO in a glance *(funded under Copernicus)*](https://github.com/esowc/challenges_2021/issues/10)
-
-<br>
-
-<i><strong><sup>*</sup></strong> Challenge is funded under Copernicus. Only nationals from the European Union and ECMWF Member States are eligible to apply (see [Terms and Conditions](https://esowc.ecmwf.int/terms-and-conditions)).</i>
-
-*Note: Successful projects will be eligible for a stipend of £ 5000 and if applicable, cloud credits from the [European Weather Cloud](https://www.europeanweather.cloud/) or [WEkEO](https://wekeo.eu/)*
 
 <br>
 
