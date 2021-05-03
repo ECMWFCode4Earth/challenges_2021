@@ -13,7 +13,7 @@ Congratulations to the eight teams that have been selected to be part of ECMWF S
 
 | Project title | Team | Mentors |
 | ---------- | --------------- | -------------- |
-| **Size, precision, speed - pick two: Implementation** | [Milan Kloewer](https://github.com/milankl) | [Miha Razinger](https://github.com/miha-at-ecmwf) <br> [Juan-Jose Dominguez](https://github.com/juanjodd) |
+| **Size, precision, speed - pick two: Implementation**<br> <img src='./Challenge12.jpg' alt='ESoWC' align='center' width='70%'></img>| [Milan Kloewer](https://github.com/milankl) | [Miha Razinger](https://github.com/miha-at-ecmwf) <br> [Juan-Jose Dominguez](https://github.com/juanjodd) |
 | **ECMWF User Profile Page** | [Varun Bankar](https://github.com/varunbankar/) | [Helen Setchell](https://github.com/kiden) <br> Carsten Maas <br> [Sylvie Lamy-Thepaut](https://github.com/sylvielamythepaut) |
 | **Machine Learning to improve the <br>CAMS global air quality forecasts** | Antonio Perez Velsco <br> Mario Santa Cruz Lopez | [Johannes Flemming](https://github.com/JohannesFlemming) <br> [Miha Razinger](https://github.com/miha-at-ecmwf) <br> Jerome Barre |
 | **ML4Land** | [Het Shah](https://github.com/Het-Shah) <br> Avishra Kahe | [Gianpaolo Balsamo](https://github.com/gpbalsamo) <br> [Joe McNorton](https://github.com/joemcnorton) <br> Gabriele Arduini <br> Margarita Choulga <br> Souhail Boussetta <br> Nils Wedi <br> [Peter Dueben](https://github.com/dueben) |
