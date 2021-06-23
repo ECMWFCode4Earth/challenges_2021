@@ -9,7 +9,7 @@ ECMWF Summer of Weather Code is a collaborative programme where each summer seve
 <br>
 
 ## ESoWC 2021 Projects
-Congratulations to the eight teams that have been selected to be part of ECMWF Summer of Weather Code 2021:
+Congratulations to the nine teams that have been selected to be part of ECMWF Summer of Weather Code 2021:
 
 | Project title | Team | Mentors |
 | ---------- | --------------- | -------------- |
