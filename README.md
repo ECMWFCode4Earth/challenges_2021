@@ -2,18 +2,16 @@
 
 ECMWF Summer of Weather Code is a collaborative programme where each summer several developer teams work on innovative weather-, climate- and atmosphere-related open-source software. ESoWC is organised by the [European Centre for Medium-Range Weather Forecasts (ECMWF)](https://www.ecmwf.int/) and supported by [Copernicus](https://climate.copernicus.eu).
 <br>
-<bt>
+<br>
 
-## Upcoming: ESoWC 2021 mid-term webinars
-<img src='./esowc2021_ama_banner.png' alt='ESoWC' align='center' width='80%'></img>
+<img src='./esowc_2021_banner.jpg' alt='ESoWC' align='center' width='80%'></img>
 
 <br>
 
-Get to know the ESoWC 2021 teams and the projects they are working on. The nine ESoWC 2021 projects will be presented during two mid-term webinars:
-* **Thursday, 15 July 2021 | 11 am BST**
-* **Thursday, 22 July 2021 | 11 am BST**
+Did you miss the ESoWC 2021 mid-term webinars? No problem, watch the recordings here:
+* [**ESoWC 2021 Midterm results - Session 1**](https://www.youtube.com/watch?v=L95bexzGpu4)
+* [**ESoWC 2021 Midterm results - Session 2**](https://www.youtube.com/watch?v=aQiKLgAu1VY)
 
-Find the full agenda and registration details [here](https://esowc.ecmwf.int/ESoWC-2021-Project-Presentations-AMA).
 
 <br>
 
@@ -22,15 +20,15 @@ Congratulations to the nine teams that have been selected to be part of ECMWF Su
 
 | Project title | Team | Mentors |
 | ---------- | --------------- | -------------- |
-| [**Elefridge.jl: Compressing atmospheric data into its real information content**](https://github.com/esowc/Elefridge.jl)| [Milan Kloewer](https://github.com/milankl) | [Miha Razinger](https://github.com/miha-at-ecmwf) <br> [Juan-Jose Dominguez](https://github.com/juanjodd) |
-| [**ADC Toolbox: Comparing Atmospheric Composition Datasets**](https://github.com/esowc/adc-toolbox)| [Alba Vilanova Cortezon](https://github.com/albavilanova) | [Miha Razinger](https://github.com/miha-at-ecmwf) <br> Antje Inness <br> Federico Fierli |
-| [**ECMWF User Dashboard**](https://github.com/esowc/ecmwf-user-dashboard) | [Varun Bankar](https://github.com/varunbankar/) | [Helen Setchell](https://github.com/kiden) <br> Carsten Maas <br> [Sylvie Lamy-Thepaut](https://github.com/sylvielamythepaut) |
-| [**AQ-BiasCorrection**](https://github.com/esowc/aq-biascorrection) | [Antonio Perez Velsco](https://github.com/aperezvelasco) <br> [Mario Santa Cruz Lopez](https://github.com/JPXKQX) | [Johannes Flemming](https://github.com/JohannesFlemming) <br> [Miha Razinger](https://github.com/miha-at-ecmwf) <br> Jerome Barre |
-| [**ML4Land: Using Earth's observation data, Climate reanalysis & Machine Learning to detect Earth's heating patterns**](https://github.com/esowc/ML4Land) | [Het Shah](https://github.com/Het-Shah) <br> [Avishree Khare](https://github.com/avishreekh) | [Gianpaolo Balsamo](https://github.com/gpbalsamo) <br> [Joe McNorton](https://github.com/joemcnorton) <br> Gabriele Arduini <br> Margarita Choulga <br> Souhail Boussetta <br> Nils Wedi <br> [Peter Dueben](https://github.com/dueben) |
-| [**MaLePoM: Machine Learning for Pollution Monitoring**](https://github.com/esowc/MaLePoM) | [Nicolo Brunello](https://github.com/NicoBrunello) <br> [Vidur Mithal](https://github.com/vidurmithal) <br> [Paolo Fornoni](https://github.com/PaoloForno) <br> [Luca Rampini](https://github.com/crampaldo) |[Joe McNorton](https://github.com/joemcnorton) <br> Nicolas Bousserez <br> [Gianpaolo Balsamo](https://github.com/gpbalsamo) <br> Anna Agusti-Panareda <br> Mark Parrington |
-| [**CliMetLab - Machine Learning on weather and climate data**](https://github.com/esowc/climetlab) |[Ashwin Samudre](https://github.com/kiryteo)<br> |[Baudouin Raoult](https://github.com/b8raoult) <br> [Florian Pinault](https://github.com/floriankrb) |
-| [**BlenderNC enhancements**](https://github.com/blendernc/blendernc) | [Tishampati Dhar](https://github.com/whatnick) <br> Gichini Ngaruiya <br> [Josue Martinez Moreno](https://github.com/josuemtzmo) | [Stephan Siemen](https://github.com/stephansiemen) <br> [Sylvie Lamy-Thepaut](https://github.com/sylvielamythepaut) |
-| [**Meeresvogel**]() | [Kathryn Schmitt](https://github.com/kassschmitt) | [Stephan Siemen](https://github.com/stephansiemen) <br> [Iain Russell](https://github.com/iainrussell)|
+| [**Elefridge.jl: Compressing atmospheric data into its real information content**](https://github.com/esowc/Elefridge.jl) <br> >> [Watch the project presentation](https://www.youtube.com/watch?v=xnglSFjysVk)| [Milan Kloewer](https://github.com/milankl) | [Miha Razinger](https://github.com/miha-at-ecmwf) <br> [Juan-Jose Dominguez](https://github.com/juanjodd) |
+| [**ADC Toolbox: Comparing Atmospheric Composition Datasets**](https://github.com/esowc/adc-toolbox) <br> >> [Watch the project presentation](https://www.youtube.com/watch?v=Ba6utZLD_RU)| [Alba Vilanova Cortezon](https://github.com/albavilanova) | [Miha Razinger](https://github.com/miha-at-ecmwf) <br> Antje Inness <br> Federico Fierli |
+| [**ECMWF User Dashboard**](https://github.com/esowc/ecmwf-user-dashboard)  <br> >> [Watch the project presentation](https://www.youtube.com/watch?v=lq3-L3OOspE) | [Varun Bankar](https://github.com/varunbankar/) | [Helen Setchell](https://github.com/kiden) <br> Carsten Maas <br> [Sylvie Lamy-Thepaut](https://github.com/sylvielamythepaut) |
+| [**AQ-BiasCorrection**](https://github.com/esowc/aq-biascorrection) <br> >> [Watch the project presentation](https://www.youtube.com/watch?v=TyLZLj0njZ4) | [Antonio Perez Velsco](https://github.com/aperezvelasco) <br> [Mario Santa Cruz Lopez](https://github.com/JPXKQX) | [Johannes Flemming](https://github.com/JohannesFlemming) <br> [Miha Razinger](https://github.com/miha-at-ecmwf) <br> Jerome Barre |
+| [**ML4Land: Using Earth's observation data, Climate reanalysis & Machine Learning to detect Earth's heating patterns**](https://github.com/esowc/ML4Land) <br> >> [Watch the project presentation](https://www.youtube.com/watch?v=dLPTPh_ZBgY) | [Het Shah](https://github.com/Het-Shah) <br> [Avishree Khare](https://github.com/avishreekh) | [Gianpaolo Balsamo](https://github.com/gpbalsamo) <br> [Joe McNorton](https://github.com/joemcnorton) <br> Gabriele Arduini <br> Margarita Choulga <br> Souhail Boussetta <br> Nils Wedi <br> [Peter Dueben](https://github.com/dueben) |
+| [**MaLePoM: Machine Learning for Pollution Monitoring**](https://github.com/esowc/MaLePoM) <br> >> [Watch the project presentation](https://www.youtube.com/watch?v=O_1USkXqOV0) | [Nicolo Brunello](https://github.com/NicoBrunello) <br> [Vidur Mithal](https://github.com/vidurmithal) <br> [Paolo Fornoni](https://github.com/PaoloForno) <br> [Luca Rampini](https://github.com/crampaldo) |[Joe McNorton](https://github.com/joemcnorton) <br> Nicolas Bousserez <br> [Gianpaolo Balsamo](https://github.com/gpbalsamo) <br> Anna Agusti-Panareda <br> Mark Parrington |
+| [**CliMetLab - Machine Learning on weather and climate data**](https://github.com/esowc/climetlab) <br> >> [Watch the project presentation](https://www.youtube.com/watch?v=RBnyB0adQ0o) |[Ashwin Samudre](https://github.com/kiryteo)<br> |[Baudouin Raoult](https://github.com/b8raoult) <br> [Florian Pinault](https://github.com/floriankrb) |
+| [**BlenderNC enhancements**](https://github.com/blendernc/blendernc) <br> >> [Watch the project presentation](https://www.youtube.com/watch?v=wxCzHFggH9M) | [Tishampati Dhar](https://github.com/whatnick) <br> Gichini Ngaruiya <br> [Josue Martinez Moreno](https://github.com/josuemtzmo) | [Stephan Siemen](https://github.com/stephansiemen) <br> [Sylvie Lamy-Thepaut](https://github.com/sylvielamythepaut) |
+| [**Meeresvogel**]() <br> >> [Watch the project presentation](https://www.youtube.com/watch?v=rDVdOcRONWs) | [Kathryn Schmitt](https://github.com/kassschmitt) | [Stephan Siemen](https://github.com/stephansiemen) <br> [Iain Russell](https://github.com/iainrussell)|
 
 <br>
 <br>
