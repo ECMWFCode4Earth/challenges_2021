@@ -5,7 +5,7 @@ ECMWF Summer of Weather Code is a collaborative programme where each summer seve
 
 ### Upcoming
 ## Final ESoWC Day 2021 | 29 September 10am BST
- **[Go to event page](https://esowc.ecmwf.int/final-esowc-day-2021-event-page)**
+ **[Go to event page and register](https://esowc.ecmwf.int/final-esowc-day-2021-event-page)**
 
 [<img src='./banner_final_esowc_day.jpg' alt='ESoWC' align='center' width='80%'></img>](https://esowc.ecmwf.int/final-esowc-day-2021-event-page)
 
